@@ -1,0 +1,100 @@
+[api-updater (non-obsolete-error-filter)] 4/13/2022 3:34:58 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1322.4378ms
+moved types parse time: 128ms
+candidates parse time : 3ms
+C# parse time         : 1243ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 3:35:33 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113.9899ms
+moved types parse time: 110ms
+candidates parse time : 2ms
+C# parse time         : 376ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 3:35:52 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 149.5094ms
+moved types parse time: 94ms
+candidates parse time : 2ms
+C# parse time         : 358ms
+candidates check time : 50ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 3:36:16 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.2073ms
+moved types parse time: 91ms
+candidates parse time : 2ms
+C# parse time         : 362ms
+candidates check time : 66ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 3:36:43 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 110.6348ms
+moved types parse time: 119ms
+candidates parse time : 2ms
+C# parse time         : 437ms
+candidates check time : 57ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 3:42:42 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136.5517ms
+moved types parse time: 98ms
+candidates parse time : 2ms
+C# parse time         : 391ms
+candidates check time : 55ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 3:43:12 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 107.8536ms
+moved types parse time: 146ms
+candidates parse time : 2ms
+C# parse time         : 514ms
+candidates check time : 67ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 3:43:19 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 151.7839ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 363ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 4:20:11 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 148.0489ms
+moved types parse time: 91ms
+candidates parse time : 2ms
+C# parse time         : 368ms
+candidates check time : 61ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2022 4:49:28 PM : Starting C:/Users/90533/Desktop/CIS410/unity/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.0082ms
+moved types parse time: 102ms
+candidates parse time : 2ms
+C# parse time         : 391ms
+candidates check time : 44ms
+console write time    : 1ms
+
