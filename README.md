@@ -1,4 +1,6 @@
-# MrSchokermbernibsGames
+# Haunted_Mansion
+
+A class assignment aimed at learning how to build games as a team and about how to incorporate the use of dot products, linear interpolation, and particle effects into game design. This file documents how these elements were implemented and which team member handled which aspects of the game deliverables.
 
 Dot Product: Calculation of distance between player and exit. Result is displayed in middle of screen via a textbox.
 Linear Interpolation: A circle is below the player object, changing colors with interpolation using minimum distance to an enemy.
